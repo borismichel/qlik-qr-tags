@@ -11,7 +11,7 @@ The idea was that by using a mobile device like a phone or tablet scanning a QR 
 # Installation
 
 To use the Extension you can take the prebuilt version from the `dist` folder, zip it and import it to your QMC.
-For use on Desktop create a folder `qlik-qr-tags` in `%USERPROFILE%\Documents\qlik\sense\extensions\`.
+For use on Desktop create a folder `qlik-qr-tags` in `%USERPROFILE%\Documents\qlik\sense\extensions\` and copy the contents from the repo `dist` folder.
 
 # Credit
 
