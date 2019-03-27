@@ -1,6 +1,6 @@
 # qlik-qr-tags
 
-This extension is based on / extending Fady Heiba's original dashboard link generator(https://github.com/fadyheiba/Dashboard-Link-Generator)! I built it on the qlik-oss repo (https://github.com/qlik-oss/Dashboard-Link-Generator).
+This extension is based on / extending Fady Heiba's original dashboard link generator (https://github.com/fadyheiba/Dashboard-Link-Generator)! I built it on the qlik-oss repo (https://github.com/qlik-oss/Dashboard-Link-Generator).
 
 This is an addon to the original extension, so this could theoretically be added to the current release.
 
