@@ -4,7 +4,7 @@
     "description": "A button that copies a link or creates QR tags so that the current sheet and selections can be shared with others.",
     "version": "local-dev",
     "icon": "share",
-    "preview": "sharebutton.png",
+    "preview": "qr.png",
     "keywords": "qlik-sense, visualization",
     "author": "Fady Heiba <fadyheiba@gmail.com>; Boris Michel",
     "homepage": "",

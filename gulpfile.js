@@ -16,7 +16,7 @@ gulp.task('qext', function () {
 		description: pkg.description,
 		version: VERSION,
 		icon: 'share',
-		preview: 'sharebutton.png',
+		preview: 'qr.png',
 		keywords: 'qlik-sense, visualization',
 		author: pkg.author,
 		homepage: pkg.homepage,
