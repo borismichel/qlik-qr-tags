@@ -4,7 +4,7 @@ This extension is based on / extending Fady Heiba's original dashboard link gene
 
 This is an addon to the original extension, so this could theoretically be added to the current release.
 
-The idea was that by using a mobile device like a phone or tablet scanning a QR Code is usually one of the fastest ways to navigate to a specific ressource. This led me to include a QR Code generator in the current extension build. This allows tags to be generated, that can then be printed and attached to surfaces like machines on a shopfloor, shelving in a storage unit, hospital beds, rooms, whatever physical representation of your favourite Qlik Selections you can come up with. 
+The idea was that by using a mobile device like a phone or tablet scanning a QR Code is usually one of the fastest ways to navigate to a specific resource. This led me to include a QR Code generator in the current extension build. This allows tags to be generated, that can then be printed and attached to surfaces like machines on a shopfloor, shelving in a storage unit, hospital beds, rooms, whatever physical representation of your favourite Qlik Selections you can come up with. 
 
 So anyone who wants to see specific KPIs for a machine, shelf, patient, etc. can just scan the tag and will be directly brought to the App, Sheet and have the specific item pre selected.
 
