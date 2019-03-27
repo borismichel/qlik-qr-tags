@@ -1,4 +1,4 @@
-# Dashboard-Link-Generator feat. QR Codes
+# qlik-qr-tags
 
 This extension is based on / extending Fady Heiba's original dashboard link generator(https://github.com/fadyheiba/Dashboard-Link-Generator)! I built it on the qlik-oss repo (https://github.com/qlik-oss/Dashboard-Link-Generator).
 
@@ -10,8 +10,16 @@ The idea was that by using a mobile device like a phone or tablet scanning a QR 
 
 # Installation
 
-To use the Extension you can take the prebuilt version from the `dist` folder, zip it and import it to your QMC.
+To use the Extension you can take the prebuilt version (zip file) from the `dist` folder and import it to your QMC.
 For use on Desktop create a folder `qlik-qr-tags` in `%USERPROFILE%\Documents\qlik\sense\extensions\` and copy the contents from the repo `dist` folder.
+
+To build it yourself:
+
+Have node.js installed.
+
+1) Clone the repo
+2) run `npm i` 
+3) run `npm run build` to deploy to the `dist` folder
 
 # Credit
 
