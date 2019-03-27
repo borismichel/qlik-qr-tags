@@ -10,8 +10,17 @@ The idea was that by using a mobile device like a phone or tablet scanning a QR 
 
 # Installation
 
-To use the Extension you can take the prebuilt version from the `dist` folder, zip it and import it to your QMC
+To use the Extension you can take the prebuilt version from the `dist` folder, zip it and import it to your QMC.
+For use on Desktop create a folder `qlik-qr-tags` in `%USERPROFILE%\Documents\qlik\sense\extensions\`.
+
+# Credit
+
+* Obviously Fady Heiba, since I have just nested my code in his extension
+* Qlik Branch, since I assume they built the build process around the extension?
 
 # License
 
 Released under the MIT License
+
+The word "QR Code" is registered trademark of:
+DENSO WAVE INCORPORATED
